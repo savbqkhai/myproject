@@ -38,3 +38,5 @@ print(list_so_moi);
 
 list_so_map = tuple(map(lambda a: a*3, list_so ));
 print(list_so_map)
+
+#thử nghiệm github
